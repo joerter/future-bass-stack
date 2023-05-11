@@ -26,6 +26,11 @@
     "/public/build"
   ],
   "dependencies": {
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "@fontsource/roboto": "^4.5.8",
+    "@mui/icons-material": "^5.11.16",
+    "@mui/material": "^5.13.0",
     "@prisma/client": "^4.12.0",
     "@remix-run/css-bundle": "*",
     "@remix-run/node": "*",
@@ -68,10 +73,8 @@
     "npm-run-all": "^4.1.5",
     "postcss": "^8.4.22",
     "prettier": "2.8.7",
-    "prettier-plugin-tailwindcss": "^0.2.7",
     "prisma": "^4.12.0",
     "start-server-and-test": "^2.0.0",
-    "tailwindcss": "^3.3.1",
     "ts-node": "^10.9.1",
     "tsconfig-paths": "^4.2.0",
     "typescript": "^5.0.4",
